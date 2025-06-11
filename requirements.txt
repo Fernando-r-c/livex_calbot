@@ -1,0 +1,8 @@
+langchain==0.3.25
+langchain-core==0.3.65
+langchain-openai==0.3.22
+python-dateutil==2.9.0.post0
+python-dotenv==1.1.0
+pytz==2025.2
+requests==2.32.4
+streamlit==1.45.1

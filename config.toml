@@ -1,0 +1,9 @@
+[theme]
+primaryColor="#6D28D9"           # A vibrant purple for primary elements
+backgroundColor="#F3F4F6"        # Light grey background
+secondaryBackgroundColor="#E5E7EB" # Slightly darker grey for secondary backgrounds (like sidebar)
+textColor="#1F2937"              # Dark grey for text for good contrast
+font="sans serif"                # Modern sans-serif font
+
+[client]
+showSidebarNavigation = true     # Ensure sidebar navigation is visible
